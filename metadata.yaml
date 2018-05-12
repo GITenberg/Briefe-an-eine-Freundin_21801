@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/24899
     wikipedia: http://de.wikipedia.org/wiki/Wilhelm_von_Humboldt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21801#Briefe-an-eine-Freundin
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2007-06-11'
 gutenberg_type: Text
