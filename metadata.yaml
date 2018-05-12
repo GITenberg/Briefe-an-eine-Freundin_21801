@@ -1,0 +1,30 @@
+_repo: Briefe-an-eine-Freundin_21801
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Humboldt, Wilhelm von
+    birthdate: 1767
+    deathdate: 1835
+    gutenberg_agent_id: '24899'
+    url: http://www.gutenberg.org/2009/agents/24899
+    wikipedia: http://de.wikipedia.org/wiki/Wilhelm_von_Humboldt
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2007-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21801'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Humboldt, Wilhelm, Freiherr von, 1767-1835 -- Correspondence'
+- !lcsh 'Diede, Charlotte (Charlotte Hildebrand), 1769-1846'
+- !lcc 'DD'
+title: Briefe an eine Freundin
+url: http://www.gutenberg.org/ebooks/21801
